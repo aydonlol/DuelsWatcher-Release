@@ -1,0 +1,17 @@
+{
+  "name": "@aydon-sucks-dick/watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chokidar": "^3.5.3",
+    "eris": "^0.16.1"
+  }
+}
